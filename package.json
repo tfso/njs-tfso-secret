@@ -1,0 +1,23 @@
+{
+  "name": "njs-tfso-secret",
+  "version": "1.0.0",
+  "description": "Get secret values by reading from file",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfso/njs-tfso-secret.git"
+  },
+  "keywords": [
+    "tfso",
+    "secret"
+  ],
+  "author": "Richard B",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tfso/njs-tfso-secret/issues"
+  },
+  "homepage": "https://github.com/tfso/njs-tfso-secret#readme"
+}
